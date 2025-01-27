@@ -1,14 +1,14 @@
 proxies:
-  - name: FAST
-    server: quiz.vidio.com
+  - name: sg3.6n6.net
+    server: sg3.6n6.net
     port: 443
     type: trojan
-    password: 44c76770-fda2-11ee-9db7-1239d0255272
+    password: e47d24e0-dca1-11ef-bf1a-1239d0255272
     skip-cert-verify: true
-    sni: sg-4.test3.net
+    sni: bimbel.ruangguru.com
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: sg-4.test3.net
+        Host: sg3.6n6.nett
     udp: true
